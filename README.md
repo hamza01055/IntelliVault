@@ -137,5 +137,6 @@ Interactive Swagger docs are available at `/docs` while the server is running.
 
 ## Security Notes
 
+
 - Never commit your `.env` file — use `.env.example` as a template and always set a strong `SECRET_KEY` in production.
 - JWTs are stored in `flutter_secure_storage` (Keychain / Keystore), never in plain shared preferences.
