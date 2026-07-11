@@ -1,5 +1,5 @@
 <div align="center">
-# IntelliVault — Your AI Second Brain 
+# IntelliVault
 
 [![Flutter](https://img.shields.io/badge/Flutter-Material%203-02569B?style=flat-square&logo=flutter)](https://flutter.dev/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
@@ -17,7 +17,7 @@
 
 ## Overview
 
-IntelliVault is a full-stack "second brain" — a single place to store what you know and an AI layer to retrieve, summarize, and act on it. Upload documents and ask questions against them (RAG), capture notes with AI rewrite and translation, manage tasks with AI-suggested priorities, and interact by voice.
+IntelliVault is a full-stack "ai chatbot" — a single place to store what you know and an AI layer to retrieve, summarize, and act on it. Upload documents and ask questions against them (RAG), capture notes with AI rewrite and translation, manage tasks with AI-suggested priorities, and interact by voice.
 
 The project is structured as a monorepo with two apps:
 
