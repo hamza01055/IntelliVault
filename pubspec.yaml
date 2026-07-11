@@ -1,0 +1,29 @@
+name: intellivault
+
+description: A Dart application for managing secrets and sensitive data.
+
+version: 1.0.0
+
+
+
+environment:
+
+  sdk: '>=3.0.0 <4.0.0'
+
+
+
+dependencies:
+
+  # Add your dependencies here
+
+  # Example:
+
+  # args: ^2.4.0
+
+
+
+dev_dependencies:
+
+  test: ^1.24.0
+
+  # Add other dev dependencies as needed
