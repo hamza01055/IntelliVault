@@ -1,6 +1,7 @@
 <div align="center">
 # IntelliVault
 
+
 [![Flutter](https://img.shields.io/badge/Flutter-Material%203-02569B?style=flat-square&logo=flutter)](https://flutter.dev/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQLAlchemy-336791?style=flat-square&logo=postgresql)](https://postgresql.org/)
